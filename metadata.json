@@ -1,0 +1,6 @@
+{
+  "name": "Alap",
+  "description": "A modern, responsive messaging web application for casual conversations, community, and friendly dialogue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
